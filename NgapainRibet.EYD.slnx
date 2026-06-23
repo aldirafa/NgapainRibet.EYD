@@ -2,6 +2,9 @@
   <Folder Name="/demo/">
     <Project Path="demo/NgapainRibet.EYD.Demo/NgapainRibet.EYD.Demo.vbproj" />
   </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="TODO.md" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/NgapainRibet.EYD.Core/NgapainRibet.EYD.Core.vbproj" />
     <Project Path="src/NgapainRibet.EYD.DataImporter/NgapainRibet.EYD.DataImporter.vbproj" />
