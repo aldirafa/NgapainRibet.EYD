@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\NgapainRibet.EYD.Core\NgapainRibet.EYD.Core.vbproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>NgapainRibet.EYD.Demo</RootNamespace>
+    <TargetFramework>net10.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
